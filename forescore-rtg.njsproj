@@ -20,7 +20,6 @@
     <Content Include="package.json" />
     <Content Include="app.js" />
     <Content Include="server.js" />
-    <Content Include="tables\course - Copy.json" />
     <Content Include="tables\player.js" />
     <Content Include="tables\course.json" />
     <Content Include="tables\course.js" />
