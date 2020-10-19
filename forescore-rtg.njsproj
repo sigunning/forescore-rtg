@@ -20,8 +20,8 @@
     <Content Include="package.json" />
     <Content Include="app.js" />
     <Content Include="server.js" />
-    <Content Include="tables\event.js" />
-    <Content Include="tables\event.json" />
+    <Content Include="tables\competition.js" />
+    <Content Include="tables\competition.json" />
     <Content Include="tables\player.js" />
     <Content Include="tables\course.json" />
     <Content Include="tables\course.js" />
