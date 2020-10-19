@@ -1,0 +1,3 @@
+C:\Data\Code\VS\NodeJS\ForeScore-rtg\obj\Debug\forescore-rtg.njsprojAssemblyReference.cache
+C:\Data\Code\VS\NodeJS\ForeScore-rtg\obj\Debug\forescore-rtg.njsproj.CoreCompileInputs.cache
+C:\Data\Code\VS\NodeJS\ForeScore-rtg\bin\Microsoft.NodejsTools.WebRole.dll
