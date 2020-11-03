@@ -26,6 +26,8 @@
     <Content Include="tables\course.json" />
     <Content Include="tables\course.js" />
     <Content Include="tables\player.json" />
+    <Content Include="tables\round.js" />
+    <Content Include="tables\round.json" />
     <Content Include="tables\society.js" />
     <Content Include="tables\society.json" />
     <Content Include="tables\societyplayer.js" />
