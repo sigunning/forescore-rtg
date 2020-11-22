@@ -22,6 +22,12 @@
     <Content Include="server.js" />
     <Content Include="tables\competition.js" />
     <Content Include="tables\competition.json" />
+    <Content Include="tables\compplayer.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="tables\compplayer.json">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="tables\player.js" />
     <Content Include="tables\course.json" />
     <Content Include="tables\course.js" />
