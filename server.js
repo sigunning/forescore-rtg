@@ -8,7 +8,7 @@ mobileApp.tables.add('Society'); // Create a table for 'Society' with default se
 mobileApp.tables.add('Competition'); // Create a table for 'Competition' with default settings
 mobileApp.tables.add('SocietyPlayer'); // Create a table for 'SocietyPlayer' with default settings
 mobileApp.tables.add('Round'); // Create a table for 'Round' with default settings
-mobileApp.tables.add('CompPlayer'); // Create a table for 'CompPlayer' with default settings
+mobileApp.tables.add('PlayerScore'); // Create a table for 'CompPlayer' with default settings
 
 
 app.use(mobileApp);
